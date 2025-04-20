@@ -1,7 +1,7 @@
 # Exploring-Airbnb-NYC
 Exploratory Data Analysis of Airbnb listings in New York City using Python (pandas, seaborn, matplotlib) to uncover pricing trends, availability patterns, and neighborhood insights.
 
-## 📌 objective
+## 📌 Objective
 This project is a comprehensive **Exploratory Data Analysis (EDA)** of Airbnb listings in NYC. The goal is to extract actionable insights about pricing, demand, and neighborhood behavior using Python libraries like **pandas, seaborn, and matplotlib**.
 
 ## 🔧 Tools & Technologies
